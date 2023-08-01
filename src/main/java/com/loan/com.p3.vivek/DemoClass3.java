@@ -1,7 +1,7 @@
-package com.db.demo;
+package com.p3.vivek;
 
 
-public class DemoApp {
+public class DemoClass3 {
 
 		public static void main(String[] args)
 		{
