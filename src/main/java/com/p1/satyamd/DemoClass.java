@@ -1,7 +1,7 @@
 package com.p1.satyamd;
 
 
-public class DemoApp {
+public class DemoClass {
 
 		public static void main(String[] args)
 		{
