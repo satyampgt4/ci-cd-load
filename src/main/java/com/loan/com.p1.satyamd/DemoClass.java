@@ -1,4 +1,4 @@
-package com.db.demo;
+package com.p1.satyamd;
 
 
 public class DemoApp {
